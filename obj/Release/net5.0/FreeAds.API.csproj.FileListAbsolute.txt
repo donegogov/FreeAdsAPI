@@ -1,0 +1,184 @@
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\appsettings.Development.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\appsettings.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\appsettings.Production.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Data\UserSeedData.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.exe
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.deps.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.runtimeconfig.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.runtimeconfig.dev.json
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\ref\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\FreeAds.API.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\AutoMapper.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Castle.Core.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\CloudinaryDotNet.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Humanizer.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\MySqlConnector.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.core.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.AssemblyInfoInputs.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.AssemblyInfo.cs
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.CoreCompileInputs.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\staticwebassets\FreeAds.API.StaticWebAssets.Manifest.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\staticwebassets\FreeAds.API.StaticWebAssets.xml
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\scopedcss\bundle\FreeAds.API.styles.css
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.RazorTargetAssemblyInfo.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.CopyComplete
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\ref\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.pdb
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.genruntimeconfig.cache
+D:\BLUESUNDISK\FreeAds\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.AssemblyReference.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\appsettings.Development.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\appsettings.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\appsettings.Production.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Data\UserSeedData.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.exe
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.deps.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.runtimeconfig.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.runtimeconfig.dev.json
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\ref\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\FreeAds.API.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\AutoMapper.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Castle.Core.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\CloudinaryDotNet.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Humanizer.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\MySqlConnector.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.core.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.AssemblyReference.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.AssemblyInfoInputs.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.AssemblyInfo.cs
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.CoreCompileInputs.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\staticwebassets\FreeAds.API.StaticWebAssets.Manifest.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\staticwebassets\FreeAds.API.StaticWebAssets.xml
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\scopedcss\bundle\FreeAds.API.styles.css
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.RazorTargetAssemblyInfo.cache
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.csproj.CopyComplete
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\ref\FreeAds.API.dll
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.pdb
+D:\BLUESUNDISK\FreeAds - angular .net core\FreeAds.API\obj\Release\net5.0\FreeAds.API.genruntimeconfig.cache

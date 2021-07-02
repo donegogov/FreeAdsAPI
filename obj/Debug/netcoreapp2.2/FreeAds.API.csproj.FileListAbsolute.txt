@@ -1,0 +1,38 @@
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.production.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\Data\UserSeedData.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.deps.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.runtimeconfig.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.runtimeconfig.dev.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.dll
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.pdb
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorAssemblyInfo.cache
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorAssemblyInfo.cs
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.AssemblyInfoInputs.cache
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.AssemblyInfo.cs
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorTargetAssemblyInfo.cache
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.dll
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.pdb
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\visual studio\FreeAds\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.csprojAssemblyReference.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\Data\UserSeedData.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\appsettings.Production.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.deps.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.runtimeconfig.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.runtimeconfig.dev.json
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.dll
+D:\Visual Studio Community\FreeAds\FreeAds.API\bin\Debug\netcoreapp2.2\FreeAds.API.pdb
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.csprojAssemblyReference.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.AssemblyInfoInputs.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.AssemblyInfo.cs
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorAssemblyInfo.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorAssemblyInfo.cs
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.dll
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.pdb
+D:\Visual Studio Community\FreeAds\FreeAds.API\obj\Debug\netcoreapp2.2\FreeAds.API.genruntimeconfig.cache

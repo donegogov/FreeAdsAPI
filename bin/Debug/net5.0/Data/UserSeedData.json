@@ -1,0 +1,592 @@
+[
+  {
+    "Username": "Meyers",
+    "Password": "password",
+    "City": "Veles",
+    "ClassifiedAds": [
+      {
+        "Title": "Pariatur voluptate deserunt pariatur mollit cupidatat ex quis consequat duis.",
+        "Description": "Exercitation esse fugiat consectetur pariatur ad quis consequat sit nostrud velit cillum nulla nisi culpa.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Mebel",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-29",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Aliqua in fugiat proident culpa laboris adipisicing."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Aliquip magna ea sit incididunt ullamco exercitation ad dolor dolore."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Adipisicing fugiat labore anim commodo enim enim officia labore ullamco cillum."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Cupidatat ea anim aliquip nulla eiusmod in aute commodo adipisicing."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Cupidatat nisi est sunt ad veniam amet irure aliqua."
+          }
+        ]
+      },
+      {
+        "Title": "Fugiat dolore dolor nisi reprehenderit anim mollit minim eiusmod anim tempor quis culpa nisi tempor.",
+        "Description": "Sunt officia tempor ut quis elit sunt officia fugiat pariatur et.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "Ostanato",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-20",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/9c/e7/10/9ce710e0a597288bbd3b9b297231c698.jpg",
+            "isMain": true,
+            "description": "Irure eu amet sit culpa commodo do eu ipsum nisi."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Amet incididunt cillum mollit nisi quis nulla culpa mollit aliqua esse."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ea occaecat culpa nostrud aliquip."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Quis non excepteur non ad excepteur magna aliquip excepteur sunt."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nostrud minim do sunt voluptate aute cupidatat qui sunt qui do qui ad aute dolor."
+          }
+        ]
+      },
+      {
+        "Title": "Est eiusmod eiusmod officia eiusmod cillum occaecat commodo cillum in ad enim aliquip ex magna.",
+        "Description": "Aliqua ut consequat incididunt est ea sit sit id aliqua dolore.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "Mebel",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-27",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Quis occaecat irure non qui et exercitation proident voluptate dolor laboris labore occaecat Lorem occaecat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Adipisicing id aliquip dolore ut dolor qui aliqua irure deserunt ad."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Esse anim adipisicing duis consectetur in culpa ipsum ipsum aliquip et non do."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Proident nostrud cillum ipsum reprehenderit irure."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Esse proident dolor commodo laborum incididunt reprehenderit amet mollit reprehenderit duis sint commodo aute cupidatat."
+          }
+        ]
+      },
+      {
+        "Title": "Duis est aliqua culpa irure.",
+        "Description": "Ad Lorem nisi irure cillum enim qui anim incididunt.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Ostanato",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-21",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Consectetur adipisicing incididunt mollit nisi anim ullamco."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Qui ipsum proident nisi aliquip incididunt voluptate adipisicing proident nulla aliquip culpa."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ad do sint cupidatat magna velit quis et proident occaecat cupidatat deserunt incididunt nulla."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Sint mollit proident ut sint sunt dolore aute."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ea quis do excepteur exercitation duis dolor proident sunt nulla."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Roberts",
+    "Password": "password",
+    "City": "Veles",
+    "ClassifiedAds": [
+      {
+        "Title": "Aliqua officia ipsum aute pariatur minim esse nisi consectetur.",
+        "Description": "Qui pariatur ullamco aliqua ex et.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Elektronika",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-29",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Aliquip est esse ea aliqua aute."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Culpa aliqua aliqua esse labore exercitation elit mollit anim aliquip Lorem consectetur aliquip cupidatat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Duis ex Lorem exercitation excepteur pariatur sunt cillum ad do nostrud mollit."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Est voluptate dolor anim pariatur dolor."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nisi commodo mollit labore cillum."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Ball",
+    "Password": "password",
+    "City": "Veles",
+    "ClassifiedAds": [
+      {
+        "Title": "Incididunt consequat non sint sit adipisicing id mollit ut aute irure dolor magna aute.",
+        "Description": "Ex exercitation non amet sunt.",
+        "City": "Prilep",
+        "Country": "Makedonija",
+        "Category": "Ostanato",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-28",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Pariatur aliqua id duis sunt culpa adipisicing veniam adipisicing proident culpa pariatur tempor."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Minim reprehenderit excepteur nostrud sint aliqua commodo eiusmod sit dolore."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Eu eu irure ullamco sint pariatur sunt ex proident."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Fugiat pariatur excepteur quis ut voluptate culpa incididunt commodo."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ad ut ipsum dolore laboris nulla fugiat."
+          }
+        ]
+      },
+      {
+        "Title": "Dolor laborum esse ex cillum elit est aliqua eu in.",
+        "Description": "Ipsum ullamco incididunt elit sint.",
+        "City": "Kichevo",
+        "Country": "Makedonija",
+        "Category": "Mebel",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-26",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Ad ullamco sit qui occaecat do enim sint ex id aliqua."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Veniam ullamco velit qui cillum deserunt sint enim deserunt elit mollit cupidatat et qui."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ea dolor aliquip do aliqua cupidatat ea."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Consectetur anim commodo proident voluptate duis esse reprehenderit."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Pariatur aute irure magna amet do cupidatat."
+          }
+        ]
+      },
+      {
+        "Title": "Deserunt aliquip cillum ea non aliqua in in commodo ea veniam sunt qui incididunt duis.",
+        "Description": "Aliqua dolore veniam tempor fugiat anim tempor adipisicing voluptate anim dolore laboris dolore.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "BelaTehnika",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-21",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Laboris officia officia exercitation Lorem ullamco cillum consequat in ea."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Laboris occaecat nisi non in velit id ea occaecat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Deserunt cupidatat aute esse deserunt enim nisi est mollit laboris consectetur duis laboris deserunt eu."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Non magna aliquip voluptate quis in magna deserunt eiusmod nostrud minim qui."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Dolore reprehenderit ea anim laboris ea duis."
+          }
+        ]
+      },
+      {
+        "Title": "Est proident ut nulla mollit tempor sunt amet aliqua commodo aliqua dolor.",
+        "Description": "Ad mollit cillum aliqua ullamco eiusmod excepteur ullamco.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "BelaTehnika",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-21",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Aute ad enim commodo et consequat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Lorem esse sint est consectetur non do eu."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nisi commodo tempor eu dolor ex cillum anim nulla occaecat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Consectetur duis duis minim quis veniam."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Laboris commodo sit esse ea dolore officia ullamco consequat eiusmod nisi nulla sunt mollit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Cole",
+    "Password": "password",
+    "City": "Skopje",
+    "ClassifiedAds": [
+      {
+        "Title": "Lorem ad culpa duis eiusmod est labore ipsum aliquip adipisicing et sunt exercitation excepteur.",
+        "Description": "Ea ut cillum pariatur eu officia reprehenderit eiusmod deserunt non qui nostrud qui.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "Ostanato",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-20",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Ullamco mollit nulla ullamco labore ipsum velit dolor culpa."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nostrud fugiat commodo irure incididunt mollit duis ipsum aliquip culpa tempor eu irure."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Veniam irure aute magna magna duis id ipsum laborum cupidatat anim aute reprehenderit Lorem."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Dolore dolor nulla fugiat quis exercitation aliqua ullamco."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Lorem ullamco anim veniam tempor consectetur nostrud laborum in amet."
+          }
+        ]
+      },
+      {
+        "Title": "Elit consequat consectetur elit velit incididunt proident.",
+        "Description": "Sint elit deserunt dolore id aliquip consequat est velit officia id non sit minim.",
+        "City": "Skopje",
+        "Country": "Makedonija",
+        "Category": "Ostanato",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-24",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Irure non anim ad sunt."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Excepteur nostrud labore amet qui deserunt."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Consectetur aute reprehenderit ullamco anim nostrud enim mollit occaecat sit occaecat."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Mollit amet labore tempor ad velit est pariatur exercitation."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Magna proident occaecat duis aute aliquip Lorem."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Duran",
+    "Password": "password",
+    "City": "Berovo",
+    "ClassifiedAds": [
+      {
+        "Title": "Minim sunt ullamco fugiat ullamco fugiat est elit incididunt incididunt aute.",
+        "Description": "Officia est nostrud laboris et ullamco sit dolor reprehenderit irure consectetur in proident enim.",
+        "City": "Valandovo",
+        "Country": "Makedonija",
+        "Category": "BelaTehnika",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-26",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Dolor qui reprehenderit commodo nostrud sint consequat aliquip enim adipisicing."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Eu sint incididunt pariatur ipsum culpa exercitation exercitation irure in veniam labore proident."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Occaecat voluptate nostrud adipisicing laboris nulla est laborum anim Lorem consectetur ad."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nostrud irure voluptate ut quis elit duis."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nisi quis laboris laboris aute elit ea exercitation eu cillum do ad eiusmod excepteur."
+          }
+        ]
+      },
+      {
+        "Title": "Duis esse nulla velit ex amet pariatur labore ea eiusmod exercitation in.",
+        "Description": "Consequat ea excepteur in voluptate quis commodo laboris ullamco ea.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Elektronika",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-28",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Cillum id voluptate eiusmod commodo nisi aliqua do excepteur dolore ut dolor magna culpa."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Minim proident laborum sint velit laborum aliqua laborum deserunt aute non occaecat dolor."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Exercitation est do et labore."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Eiusmod qui nulla sint sit esse duis voluptate non officia."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Aute sint ea quis ea do sit exercitation ea veniam dolor commodo excepteur."
+          }
+        ]
+      },
+      {
+        "Title": "Cillum Lorem velit duis nostrud dolore veniam nostrud nostrud laborum.",
+        "Description": "Do duis labore amet ut enim dolor elit consequat voluptate nisi duis ex cupidatat.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Mebel",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-21",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Labore irure qui eiusmod irure tempor pariatur labore anim veniam."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Est occaecat dolor velit amet eiusmod ad consectetur non sit dolor exercitation dolor."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Nulla do magna ea occaecat ullamco deserunt veniam officia."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Laboris exercitation elit eu eiusmod commodo do quis laboris eiusmod mollit esse nulla."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Ea consectetur cillum adipisicing aute nostrud dolor ad."
+          }
+        ]
+      },
+      {
+        "Title": "Sit labore velit et fugiat cupidatat aliquip esse adipisicing nulla ad veniam aute eiusmod minim.",
+        "Description": "Deserunt pariatur anim aliqua quis veniam qui anim eu incididunt adipisicing laboris.",
+        "City": "Veles",
+        "Country": "Makedonija",
+        "Category": "Mebel",
+        "DateAdded": "2020-11-01",
+        "ValidTo": "2018-11-20",
+        "Phone": "077111111",
+        "Photos": [
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": true,
+            "description": "Dolor deserunt excepteur eu laboris eu velit sunt ipsum sit ea incididunt fugiat nisi deserunt."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Cupidatat velit in deserunt Lorem tempor."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Qui sint proident anim pariatur sint laboris ut quis ad et ea deserunt qui qui."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Duis enim ea eiusmod sint id aliquip fugiat consequat labore anim."
+          },
+          {
+            "url": "https://i.pinimg.com/564x/43/96/8a/43968acb9038e84017a923b86e26d46e.jpg",
+            "isMain": false,
+            "description": "Minim commodo amet aute sint quis occaecat magna ex laborum ipsum nostrud."
+          }
+        ]
+      }
+    ]
+  }
+]
